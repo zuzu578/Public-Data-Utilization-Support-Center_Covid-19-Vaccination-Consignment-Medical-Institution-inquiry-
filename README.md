@@ -19,6 +19,12 @@
  -orgZipaddr : zip 주소 ( 도로명주소 ) 
  -orgnm : 기관 이름 (주소포함)
  -slrYmd : 업데이트 날짜 
+ 
+ # Response Result (java-spring)
+ <img width="990" alt="스크린샷 2021-07-23 오전 10 55 03" src="https://user-images.githubusercontent.com/69393030/126729156-25ed23d4-83b6-4a96-ac10-ed12cc005cfa.png">
+ # Response Result (javascript -vue.js)
+ <img width="726" alt="스크린샷 2021-07-23 오전 10 55 54" src="https://user-images.githubusercontent.com/69393030/126729200-1cdf6378-ed52-4c9f-b3b0-f8fec20b8261.png">
+
  # models 
  <img width="612" alt="스크린샷 2021-07-23 오전 10 46 27" src="https://user-images.githubusercontent.com/69393030/126728723-776c8a6c-e284-4211-bc43-e92db041c48d.png">
 # Back-end (java - spring)
