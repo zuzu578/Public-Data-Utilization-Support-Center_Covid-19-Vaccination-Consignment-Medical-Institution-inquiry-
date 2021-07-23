@@ -1,0 +1,1 @@
+# Public-Data-Utilization-Support-Center_Covid-19-Vaccination-Consignment-Medical-Institution-inquiry-
