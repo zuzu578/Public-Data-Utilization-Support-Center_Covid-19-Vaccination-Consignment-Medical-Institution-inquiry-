@@ -22,7 +22,7 @@
  
  # Response Result (java-spring)
  <img width="990" alt="스크린샷 2021-07-23 오전 10 55 03" src="https://user-images.githubusercontent.com/69393030/126729156-25ed23d4-83b6-4a96-ac10-ed12cc005cfa.png">
- # Response Result (javascript -vue.js)
+# Response Result (javascript -vue.js)
  <img width="726" alt="스크린샷 2021-07-23 오전 10 55 54" src="https://user-images.githubusercontent.com/69393030/126729200-1cdf6378-ed52-4c9f-b3b0-f8fec20b8261.png">
 
  # models 
